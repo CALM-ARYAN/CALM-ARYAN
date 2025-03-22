@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CALM-ARYAN
+- 👋 Hi, I’m @CALM
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning PYTHON & C
 - 💞️ I’m looking to collaborate on ...
